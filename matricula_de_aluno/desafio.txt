@@ -1,0 +1,5 @@
+Crie uma classe em PHP chamada Pessoa com as propriedades nome e idade. A classe deve ter um construtor que recebe o nome e a idade da pessoa como parâmetros e atribui esses valores às suas propriedades correspondentes.
+
+Em seguida, crie uma classe chamada Aluno que herda da classe Pessoa e adiciona uma propriedade matricula. O construtor da classe Aluno deve receber os mesmos parâmetros que o construtor da classe Pessoa, bem como a matrícula do aluno, e atribuir esses valores às suas propriedades correspondentes.
+
+Finalmente, crie uma instância da classe Aluno com o nome "João", idade "20" e matrícula "12345". Em seguida, imprima na tela as propriedades da instância usando echo ou print_r, para garantir que os valores tenham sido atribuídos corretamente.
